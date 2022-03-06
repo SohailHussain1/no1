@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answere">
+        <item>Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.</item>
+        <item>Android applications help people communicate easily and share data and media files such as documents, images, and videos with each other</item>
+        <item>Linux Kernel
+Libraries
+Android Framework
+Android Applications</item>
+        <item>AAPT is short for Android Asset Packaging Tool. This tool provides developers with the ability to deal with zip-compatible archives, which includes creating, extracting as well as viewing its contents.</item>
+        <item>Intents displays notification messages to the user from within the Android enabled device. It can be used to alert the user of a particular state that occurred. Users can be made to respond to intents.</item>
+
+    </string-array>
+
+</resources>
