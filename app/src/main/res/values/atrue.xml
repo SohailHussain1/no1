@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trueQ">
+        <item>Android is an open source, Linux-based software stack</item>
+        <item>Jean Piaget made some revolutionary discoveries about child behavior during the nineteenth
+century?</item>
+        <item>Everyone should exercise daily</item>
+        <item>All types of cars have some type of engine</item>
+        <item>Children sometimes have emotional problems following their parents’ divorce?</item>
+        <item>The word steep is usually a verb?</item>
+        <item>Aspirin is not an illegal drug?</item>
+        <item>California is not a state in Canada?</item>
+        <item>It is not true that Canada is north of the U.S. ?</item>
+        <item>There is 2000 bones in a human body?</item>
+    </string-array>
+
+</resources>

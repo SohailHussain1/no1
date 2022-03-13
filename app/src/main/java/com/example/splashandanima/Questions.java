@@ -39,6 +39,20 @@ public class Questions extends AppCompatActivity {
                 startActivity(it);
             }
         });
+        bn2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent=new Intent(getApplicationContext(), quizes.class );
+                startActivity(intent);
+            }
+        });
+        bn3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent=new Intent(getApplicationContext(), truefalse.class );
+                startActivity(intent);
+            }
+        });
 
 
 

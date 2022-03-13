@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SplashAndAnima">
         <activity
+            android:name=".result2"
+            android:exported="false" />
+        <activity
+            android:name=".truefalse"
+            android:exported="false" />
+        <activity
+            android:name=".result1"
+            android:exported="false" />
+        <activity
+            android:name=".quizes"
+            android:exported="false" />
+        <activity
             android:name=".InterviewQuestions"
             android:exported="false" />
         <activity

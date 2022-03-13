@@ -5,9 +5,13 @@
       <map>
         <entry key="..\:/Users/sukhail/AndroidStudioProjects/SplashandAnima/app/src/main/res/drawable/circle.xml" value="0.166" />
         <entry key="..\:/Users/sukhail/AndroidStudioProjects/SplashandAnima/app/src/main/res/drawable/strecht.xml" value="0.166" />
-        <entry key="..\:/Users/sukhail/AndroidStudioProjects/SplashandAnima/app/src/main/res/layout/activity_interview_questions.xml" value="0.25" />
+        <entry key="..\:/Users/sukhail/AndroidStudioProjects/SplashandAnima/app/src/main/res/layout/activity_interview_questions.xml" value="0.22" />
         <entry key="..\:/Users/sukhail/AndroidStudioProjects/SplashandAnima/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/sukhail/AndroidStudioProjects/SplashandAnima/app/src/main/res/layout/activity_questions.xml" value="0.19" />
+        <entry key="..\:/Users/sukhail/AndroidStudioProjects/SplashandAnima/app/src/main/res/layout/activity_quizes.xml" value="0.25" />
+        <entry key="..\:/Users/sukhail/AndroidStudioProjects/SplashandAnima/app/src/main/res/layout/activity_result1.xml" value="0.1693840579710145" />
+        <entry key="..\:/Users/sukhail/AndroidStudioProjects/SplashandAnima/app/src/main/res/layout/activity_result2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/sukhail/AndroidStudioProjects/SplashandAnima/app/src/main/res/layout/activity_truefalse.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
